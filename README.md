@@ -3,7 +3,21 @@
 
 This project demonstrates basic web scraping using Python. The goal is to extract and save the content of the Wikipedia page on Key Events of the 20th Century for further analysis or reference.
 
-Files
+## Repository Contents
+
+| File                        | Description                                                                                   |
+|----------------------------|-----------------------------------------------------------------------------------------------|
+| `Task_1.4.ipynb`           | Initial implementation using `Selenium`, `chromedriver_autoinstaller`, and `BeautifulSoup`.  |
+| `Task_1.4_updated.ipynb`   | Optimized version using only `requests` and `BeautifulSoup`.                                  |
+| `20th_century.ipynb`       | Additional notebook (placeholder).                          |
+| `Key_events_20th_century`  | Raw binary file created by the original scraping script. *(Could be removed or renamed)*      |
+| `Key_events_20th_century.txt` | Cleaned plain-text output containing scraped Wikipedia content.                            |
+| `test.ipynb`               | Notebook for experimentation or testing purposes.                                             |
+| `requirements.txt`         | Lists required packages to run the notebooks and scripts.                                     |
+| `.gitignore`               | Ignores cache, temp files, and other unnecessary content in Git.                              |
+| `README.md`                | Project documentation and description.                                                        |
+
+
 Task_1.4.ipynb
 Uses Selenium and webdriver_manager to automate browser control.
 
@@ -20,6 +34,6 @@ Removed Selenium: since the target page is static (no JavaScript rendering neede
 
 Extracts only the main article content by targeting the <div class="mw-parser-output"> container.
 
-Cleans and organizes text from <p>, <li>, <h2>, and <h3> tags.
+Cleans and organizes text from to capture headings, paragraphs, and bullet points.
 
 Saves the final result to Key_events_20th_century.txt.
