@@ -1,0 +1,841 @@
+source,target
+france,russia
+germany,russia
+germany,russia
+germany,russia
+germany,russia
+germany,russia
+germany,russia
+germany,russia
+germany,russia
+germany,italy
+germany,italy
+germany,italy
+germany,italy
+germany,italy
+germany,italy
+germany,italy
+austria,germany
+austria,germany
+germany,italy
+austria,germany
+austria,germany
+germany,spain
+austria,germany
+austria,germany
+germany,spain
+spain,united kingdom
+france,united kingdom
+france,poland
+austria,germany
+austria,germany
+germany,spain
+spain,united kingdom
+france,united kingdom
+france,poland
+austria,germany
+germany,spain
+spain,united kingdom
+france,united kingdom
+france,poland
+poland,united kingdom
+france,united kingdom
+france,germany
+germany,poland
+spain,united kingdom
+france,united kingdom
+france,poland
+poland,united kingdom
+france,united kingdom
+france,germany
+germany,poland
+poland,russia
+france,united kingdom
+france,poland
+poland,united kingdom
+france,united kingdom
+france,germany
+germany,poland
+poland,russia
+poland,russia
+poland,russia
+germany,russia
+poland,united kingdom
+france,united kingdom
+france,germany
+germany,poland
+poland,russia
+poland,russia
+poland,russia
+germany,russia
+estonia,germany
+estonia,latvia
+latvia,lithuania
+france,united kingdom
+france,germany
+germany,poland
+poland,russia
+poland,russia
+poland,russia
+germany,russia
+estonia,germany
+estonia,latvia
+latvia,lithuania
+finland,lithuania
+poland,russia
+poland,russia
+poland,russia
+germany,russia
+estonia,germany
+estonia,latvia
+latvia,lithuania
+finland,lithuania
+finland,germany
+germany,poland
+belgium,poland
+belgium,netherlands
+luxembourg,netherlands
+poland,russia
+germany,russia
+estonia,germany
+estonia,latvia
+latvia,lithuania
+finland,lithuania
+finland,germany
+germany,poland
+belgium,poland
+belgium,netherlands
+luxembourg,netherlands
+belgium,luxembourg
+estonia,latvia
+latvia,lithuania
+finland,lithuania
+finland,germany
+germany,poland
+belgium,poland
+belgium,netherlands
+luxembourg,netherlands
+belgium,luxembourg
+belgium,denmark
+denmark,norway
+finland,germany
+germany,poland
+belgium,poland
+belgium,netherlands
+luxembourg,netherlands
+belgium,luxembourg
+belgium,denmark
+denmark,norway
+germany,poland
+belgium,poland
+belgium,netherlands
+luxembourg,netherlands
+belgium,luxembourg
+belgium,denmark
+denmark,norway
+denmark,norway
+denmark,sweden
+germany,sweden
+belgium,denmark
+denmark,norway
+denmark,norway
+denmark,sweden
+germany,sweden
+france,germany
+denmark,norway
+denmark,norway
+denmark,sweden
+germany,sweden
+france,germany
+denmark,norway
+denmark,sweden
+germany,sweden
+france,germany
+denmark,norway
+denmark,sweden
+germany,sweden
+france,germany
+france,italy
+italy,united kingdom
+france,italy
+italy,united kingdom
+france,italy
+italy,united kingdom
+germany,united kingdom
+france,italy
+italy,united kingdom
+germany,united kingdom
+germany,united kingdom
+italy,united kingdom
+germany,united kingdom
+germany,united kingdom
+germany,united kingdom
+germany,united kingdom
+greece,united kingdom
+albania,greece
+albania,greece
+greece,russia
+germany,united kingdom
+greece,united kingdom
+albania,greece
+albania,greece
+greece,russia
+russia,ukraine
+belarus,ukraine
+greece,united kingdom
+albania,greece
+albania,greece
+greece,russia
+russia,ukraine
+belarus,ukraine
+belarus,libya
+egypt,libya
+greece,united kingdom
+albania,greece
+albania,greece
+greece,russia
+russia,ukraine
+belarus,ukraine
+belarus,libya
+egypt,libya
+egypt,libya
+albania,greece
+albania,greece
+greece,russia
+russia,ukraine
+belarus,ukraine
+belarus,libya
+egypt,libya
+egypt,libya
+egypt,libya
+belarus,ukraine
+belarus,libya
+egypt,libya
+egypt,libya
+egypt,libya
+egypt,iraq
+egypt,libya
+egypt,libya
+egypt,libya
+egypt,iraq
+iraq,japan
+germany,japan
+egypt,libya
+egypt,iraq
+iraq,japan
+germany,japan
+germany,japan
+japan,russia
+egypt,iraq
+iraq,japan
+germany,japan
+germany,japan
+japan,russia
+germany,russia
+germany,italy
+iraq,japan
+germany,japan
+germany,japan
+japan,russia
+germany,russia
+germany,italy
+germany,italy
+germany,japan
+germany,japan
+japan,russia
+germany,russia
+germany,italy
+germany,italy
+germany,united kingdom
+japan,russia
+germany,russia
+germany,italy
+germany,italy
+germany,united kingdom
+morocco,united kingdom
+algeria,morocco
+germany,italy
+germany,italy
+germany,united kingdom
+morocco,united kingdom
+algeria,morocco
+algeria,italy
+germany,united kingdom
+morocco,united kingdom
+algeria,morocco
+algeria,italy
+morocco,united kingdom
+algeria,morocco
+algeria,italy
+algeria,morocco
+algeria,italy
+italy,united kingdom
+united kingdom,united states
+italy,united kingdom
+united kingdom,united states
+france,united states
+italy,united kingdom
+united kingdom,united states
+france,united states
+france,germany
+italy,united kingdom
+united kingdom,united states
+france,united states
+france,germany
+france,germany
+united kingdom,united states
+france,united states
+france,germany
+france,germany
+france,united kingdom
+france,united kingdom
+france,united states
+germany,united states
+france,germany
+france,germany
+france,united kingdom
+france,united kingdom
+france,united states
+germany,united states
+germany,poland
+germany,poland
+france,germany
+france,united kingdom
+france,united kingdom
+france,united states
+germany,united states
+germany,poland
+germany,poland
+france,united kingdom
+france,united kingdom
+france,united states
+germany,united states
+germany,poland
+germany,poland
+france,united kingdom
+france,united states
+germany,united states
+germany,poland
+germany,poland
+germany,japan
+germany,poland
+germany,japan
+germany,japan
+germany,japan
+germany,japan
+germany,japan
+germany,japan
+germany,japan
+japan,thailand
+singapore,thailand
+germany,japan
+germany,japan
+japan,thailand
+singapore,thailand
+japan,singapore
+japan,solomon islands
+germany,japan
+germany,japan
+japan,thailand
+singapore,thailand
+japan,singapore
+japan,solomon islands
+philippines,solomon islands
+japan,philippines
+germany,japan
+germany,japan
+japan,thailand
+singapore,thailand
+japan,singapore
+japan,solomon islands
+philippines,solomon islands
+japan,philippines
+japan,solomon islands
+japan,solomon islands
+japan,thailand
+singapore,thailand
+japan,singapore
+japan,solomon islands
+philippines,solomon islands
+japan,philippines
+japan,solomon islands
+japan,solomon islands
+japan,solomon islands
+philippines,solomon islands
+japan,philippines
+japan,solomon islands
+japan,solomon islands
+india,japan
+india,japan
+japan,philippines
+japan,solomon islands
+japan,solomon islands
+india,japan
+india,japan
+japan,solomon islands
+india,japan
+india,japan
+japan,united states
+japan,united states
+india,japan
+india,japan
+japan,united states
+japan,united states
+india,japan
+india,japan
+japan,united states
+japan,united states
+japan,united states
+japan,united states
+japan,poland
+japan,united states
+japan,poland
+japan,poland
+germany,poland
+japan,poland
+germany,poland
+germany,japan
+germany,poland
+germany,japan
+japan,russia
+france,russia
+france,india
+india,pakistan
+israel,pakistan
+israel,south africa
+israel,south africa
+germany,poland
+germany,japan
+japan,russia
+france,russia
+france,india
+india,pakistan
+israel,pakistan
+israel,south africa
+israel,south africa
+israel,libya
+iran,libya
+germany,japan
+japan,russia
+france,russia
+france,india
+india,pakistan
+israel,pakistan
+israel,south africa
+israel,south africa
+israel,libya
+iran,libya
+iran,united states
+japan,russia
+france,russia
+france,india
+india,pakistan
+israel,pakistan
+israel,south africa
+israel,south africa
+israel,libya
+iran,libya
+iran,united states
+germany,united states
+germany,united kingdom
+france,united kingdom
+france,russia
+france,india
+india,pakistan
+israel,pakistan
+israel,south africa
+israel,south africa
+israel,libya
+iran,libya
+iran,united states
+germany,united states
+germany,united kingdom
+france,united kingdom
+france,japan
+japan,united states
+japan,united states
+iran,libya
+iran,united states
+germany,united states
+germany,united kingdom
+france,united kingdom
+france,japan
+japan,united states
+japan,united states
+india,japan
+germany,united states
+germany,united kingdom
+france,united kingdom
+france,japan
+japan,united states
+japan,united states
+india,japan
+india,pakistan
+pakistan,philippines
+germany,united kingdom
+france,united kingdom
+france,japan
+japan,united states
+japan,united states
+india,japan
+india,pakistan
+pakistan,philippines
+laos,philippines
+cambodia,laos
+cambodia,kenya
+ghana,kenya
+japan,united states
+japan,united states
+india,japan
+india,pakistan
+pakistan,philippines
+laos,philippines
+cambodia,laos
+cambodia,kenya
+ghana,kenya
+cape verde,ghana
+angola,cape verde
+angola,mozambique
+india,pakistan
+pakistan,philippines
+laos,philippines
+cambodia,laos
+cambodia,kenya
+ghana,kenya
+cape verde,ghana
+angola,cape verde
+angola,mozambique
+mozambique,russia
+india,pakistan
+pakistan,philippines
+laos,philippines
+cambodia,laos
+cambodia,kenya
+ghana,kenya
+cape verde,ghana
+angola,cape verde
+angola,mozambique
+mozambique,russia
+latvia,russia
+estonia,latvia
+estonia,lithuania
+finland,lithuania
+finland,romania
+romania,russia
+cambodia,laos
+cambodia,kenya
+ghana,kenya
+cape verde,ghana
+angola,cape verde
+angola,mozambique
+mozambique,russia
+latvia,russia
+estonia,latvia
+estonia,lithuania
+finland,lithuania
+finland,romania
+romania,russia
+albania,russia
+albania,bulgaria
+bulgaria,poland
+poland,romania
+hungary,romania
+angola,cape verde
+angola,mozambique
+mozambique,russia
+latvia,russia
+estonia,latvia
+estonia,lithuania
+finland,lithuania
+finland,romania
+romania,russia
+albania,russia
+albania,bulgaria
+bulgaria,poland
+poland,romania
+hungary,romania
+hungary,mongolia
+cuba,mongolia
+cuba,russia
+latvia,russia
+estonia,latvia
+estonia,lithuania
+finland,lithuania
+finland,romania
+romania,russia
+albania,russia
+albania,bulgaria
+bulgaria,poland
+poland,romania
+hungary,romania
+hungary,mongolia
+cuba,mongolia
+cuba,russia
+russia,united states
+estonia,latvia
+estonia,lithuania
+finland,lithuania
+finland,romania
+romania,russia
+albania,russia
+albania,bulgaria
+bulgaria,poland
+poland,romania
+hungary,romania
+hungary,mongolia
+cuba,mongolia
+cuba,russia
+russia,united states
+canada,united states
+australia,canada
+australia,united kingdom
+albania,bulgaria
+bulgaria,poland
+poland,romania
+hungary,romania
+hungary,mongolia
+cuba,mongolia
+cuba,russia
+russia,united states
+canada,united states
+australia,canada
+australia,united kingdom
+united kingdom,vietnam
+south korea,vietnam
+cuba,mongolia
+cuba,russia
+russia,united states
+canada,united states
+australia,canada
+australia,united kingdom
+united kingdom,vietnam
+south korea,vietnam
+south korea,united states
+canada,united states
+australia,canada
+australia,united kingdom
+united kingdom,vietnam
+south korea,vietnam
+south korea,united states
+cambodia,united states
+cambodia,united states
+australia,canada
+australia,united kingdom
+united kingdom,vietnam
+south korea,vietnam
+south korea,united states
+cambodia,united states
+cambodia,united states
+south korea,vietnam
+south korea,united states
+cambodia,united states
+cambodia,united states
+united states,vietnam
+cambodia,united states
+cambodia,united states
+united states,vietnam
+cuba,vietnam
+cambodia,united states
+united states,vietnam
+cuba,vietnam
+united states,vietnam
+cuba,vietnam
+cuba,united states
+cuba,vietnam
+cuba,united states
+russia,united states
+russia,united states
+cuba,united states
+russia,united states
+russia,united states
+cuba,united states
+russia,united states
+russia,united states
+russia,united states
+japan,russia
+russia,united states
+russia,united states
+russia,united states
+japan,russia
+japan,russia
+russia,united states
+russia,united states
+russia,united states
+russia,united states
+japan,russia
+japan,russia
+russia,united states
+russia,united states
+russia,united states
+japan,russia
+japan,russia
+russia,united states
+russia,united states
+india,russia
+japan,russia
+japan,russia
+russia,united states
+russia,united states
+india,russia
+india,south africa
+russia,united states
+russia,united states
+india,russia
+india,south africa
+rwanda,south africa
+india,russia
+india,south africa
+rwanda,south africa
+russia,rwanda
+india,south africa
+rwanda,south africa
+russia,rwanda
+austria,russia
+rwanda,south africa
+russia,rwanda
+austria,russia
+austria,poland
+russia,rwanda
+austria,russia
+austria,poland
+poland,russia
+finland,russia
+austria,russia
+austria,poland
+poland,russia
+finland,russia
+finland,germany
+austria,poland
+poland,russia
+finland,russia
+finland,germany
+germany,united kingdom
+poland,russia
+finland,russia
+finland,germany
+germany,united kingdom
+germany,united kingdom
+germany,norway
+finland,russia
+finland,germany
+germany,united kingdom
+germany,united kingdom
+germany,norway
+france,norway
+finland,germany
+germany,united kingdom
+germany,united kingdom
+germany,norway
+france,norway
+france,italy
+germany,united kingdom
+germany,norway
+france,norway
+france,italy
+greece,italy
+germany,norway
+france,norway
+france,italy
+greece,italy
+germany,greece
+france,italy
+greece,italy
+germany,greece
+germany,united kingdom
+greece,italy
+germany,greece
+germany,united kingdom
+germany,greece
+germany,united kingdom
+germany,united kingdom
+germany,united kingdom
+germany,united kingdom
+germany,united kingdom
+germany,united kingdom
+germany,italy
+germany,italy
+italy,japan
+germany,italy
+italy,japan
+italy,japan
+italy,japan
+germany,italy
+italy,japan
+italy,japan
+italy,japan
+italy,japan
+italy,japan
+italy,japan
+japan,philippines
+italy,japan
+italy,japan
+japan,philippines
+japan,philippines
+italy,japan
+japan,philippines
+japan,philippines
+israel,japan
+japan,philippines
+japan,philippines
+israel,japan
+japan,philippines
+israel,japan
+iran,israel
+israel,japan
+iran,israel
+germany,iran
+iran,israel
+germany,iran
+germany,india
+iran,israel
+germany,iran
+germany,india
+india,pakistan
+germany,iran
+germany,india
+india,pakistan
+pakistan,philippines
+germany,india
+india,pakistan
+pakistan,philippines
+afghanistan,philippines
+india,pakistan
+pakistan,philippines
+afghanistan,philippines
+afghanistan,romania
+romania,russia
+india,pakistan
+pakistan,philippines
+afghanistan,philippines
+afghanistan,romania
+romania,russia
+russia,vietnam
+afghanistan,philippines
+afghanistan,romania
+romania,russia
+russia,vietnam
+afghanistan,romania
+romania,russia
+russia,vietnam
+united states,vietnam
+romania,russia
+russia,vietnam
+united states,vietnam
+united kingdom,united states
+united states,vietnam
+united kingdom,united states
+lebanon,united kingdom
+united states,vietnam
+united kingdom,united states
+lebanon,united kingdom
+india,lebanon
+united kingdom,united states
+lebanon,united kingdom
+india,lebanon
+india,singapore
+lebanon,united kingdom
+india,lebanon
+india,singapore
+india,lebanon
+india,singapore
+india,singapore

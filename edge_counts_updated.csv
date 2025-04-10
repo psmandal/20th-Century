@@ -1,0 +1,117 @@
+source,target,weight
+germany,united kingdom,33
+russia,united states,27
+germany,japan,27
+france,united kingdom,24
+germany,poland,23
+germany,italy,21
+japan,united states,19
+japan,russia,18
+poland,russia,18
+france,germany,17
+germany,russia,17
+india,pakistan,15
+japan,solomon islands,14
+india,japan,14
+japan,philippines,13
+egypt,libya,13
+italy,japan,13
+albania,greece,10
+romania,russia,10
+israel,south africa,10
+denmark,norway,10
+estonia,latvia,10
+united kingdom,united states,9
+germany,united states,9
+austria,germany,9
+pakistan,philippines,9
+cambodia,united states,9
+france,united states,9
+italy,united kingdom,9
+finland,lithuania,9
+finland,germany,9
+france,italy,8
+united states,vietnam,8
+france,russia,6
+belarus,ukraine,5
+iran,libya,5
+germany,norway,5
+australia,united kingdom,5
+australia,canada,5
+germany,sweden,5
+angola,mozambique,5
+bulgaria,poland,5
+ghana,kenya,5
+luxembourg,netherlands,5
+greece,russia,5
+japan,thailand,5
+belgium,poland,5
+hungary,romania,5
+angola,cape verde,5
+latvia,lithuania,5
+cambodia,kenya,5
+algeria,morocco,5
+cuba,mongolia,5
+albania,bulgaria,5
+belgium,netherlands,5
+singapore,thailand,5
+south korea,vietnam,5
+france,poland,5
+denmark,sweden,5
+poland,romania,5
+estonia,lithuania,5
+cambodia,laos,5
+france,india,5
+cuba,russia,5
+finland,russia,5
+finland,romania,5
+israel,pakistan,5
+japan,poland,4
+laos,philippines,4
+united kingdom,vietnam,4
+japan,singapore,4
+rwanda,south africa,4
+latvia,russia,4
+lebanon,united kingdom,4
+morocco,united kingdom,4
+spain,united kingdom,4
+mozambique,russia,4
+south korea,united states,4
+poland,united kingdom,4
+russia,rwanda,4
+russia,ukraine,4
+russia,vietnam,4
+philippines,solomon islands,4
+afghanistan,philippines,4
+israel,libya,4
+israel,japan,4
+albania,russia,4
+algeria,italy,4
+austria,poland,4
+austria,russia,4
+belarus,libya,4
+belgium,denmark,4
+belgium,luxembourg,4
+canada,united states,4
+cape verde,ghana,4
+cuba,united states,4
+cuba,vietnam,4
+egypt,iraq,4
+estonia,germany,4
+france,japan,4
+france,norway,4
+germany,greece,4
+germany,india,4
+germany,iran,4
+afghanistan,romania,4
+greece,italy,4
+greece,united kingdom,4
+hungary,mongolia,4
+india,lebanon,4
+india,russia,4
+india,singapore,4
+india,south africa,4
+iran,israel,4
+iran,united states,4
+iraq,japan,4
+germany,spain,4
